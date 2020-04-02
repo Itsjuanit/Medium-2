@@ -1,0 +1,64 @@
+body {
+    background-color: #D3D3D3;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    /*border: 1px #000000 solid;*/
+    background-color: #fff;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    font-size: 0.7em;
+}
+
+.sub-title {
+    text-align: center;
+    font-size: 2em;
+    padding-bottom: 30px;
+}
+
+.blue-text {
+    color: #70a9ff;
+}
+
+.projects {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.small-text {
+    color: #D3D3D3;
+    font-size: 0.7em;
+}
+
+.main-imagenes {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imagen {
+    padding: 20px 10px 0 20px;
+}
+
+.imagen img {
+    width: 250px;
+}
+
+h3 {
+    font-size: 1.2em;
+    font-weight: 500;
+    text-align: center;
+}
+
+.other-title {
+    color: silver;
+    font-size: 1em;
+    text-align: center;
+}
